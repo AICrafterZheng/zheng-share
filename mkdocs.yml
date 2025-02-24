@@ -1,7 +1,4 @@
-site_name: My Docs
+site_name: Danny Zheng
 site_url: https://dannyzheng.me
 theme:
   name: material
-plugins:
-  - search
-  - git-revision-date

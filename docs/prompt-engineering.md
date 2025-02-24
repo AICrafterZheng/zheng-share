@@ -1,8 +1,10 @@
 ---
+title: Prompt Engineering
 date: 2025-01-29
 ---
 
-**Created**: {{ page.meta.date }}
+_Created: 2025-01-29_
+
 ## Content
 - [What is prompt engineering?](#what-is-prompt-engineering)
 - [Why prompt engineering matters?](#why-prompt-engineering-matters)
